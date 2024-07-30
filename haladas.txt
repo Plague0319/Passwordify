@@ -1,0 +1,9 @@
+Belépés Bugfix
+
+Adatbázis
+
+users
+passwords (id,user_id,password,gen_pass,length)
+platforms (id,password_id,name,date)
+
+kapcsolat kialakítása a password és adatbázis között ...
